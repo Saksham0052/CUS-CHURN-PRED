@@ -61,7 +61,7 @@ To set up the project locally:
 
 ```bash
 # Clone the repository
-git clone https://github.com/YourUsername/customer-churn-prediction.git
+git clone https://github.com/Saksham0052/CUS-CHURN-PRED
 
 # Navigate into the project directory
 cd customer-churn-prediction
@@ -70,4 +70,7 @@ cd customer-churn-prediction
 pip install -r requirements.txt
 
 # Run the Streamlit app
-streamlit run cus-churn-pred.py
+python -m streamlit run cus-churn-pred.py
+in case some python modules does not work with any python version
+
+
